@@ -1,4 +1,5 @@
 .idea
 .vagrant
 project-src/*
+!project-src/README.md
 ubuntu-xenial-16.04-cloudimg-console.log
