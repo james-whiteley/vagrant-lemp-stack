@@ -1,0 +1,1 @@
+default['lemp-stack']['nginx_server_name'] = '_'
